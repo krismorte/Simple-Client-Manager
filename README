@@ -3,7 +3,7 @@ A simple client manager
 My sister has a business where her clients contact her by various means. She told me that she needs a system to fetch customers' address quickly through the name or phone. I built this using H2 for being a built-in database and added a legal import function for vcard model contacts (current smartphone).
 
 **Core dependencies**
-- [H2](https://github.com/mgp25/Instagram-API)
+- [H2](http://www.h2database.com/html/main.html)
 - [Lombdok](https://projectlombok.org/)
 - [Hibernate](http://hibernate.org/)
 - [Weblaf](http://weblookandfeel.com/)

@@ -1,0 +1,18 @@
+A simple client manager
+
+My sister has a business where her clients contact her by various means. She told me that she needs a system to fetch customers' address quickly through the name or phone. I built this using H2 for being a built-in database and added a legal import function for vcard model contacts (current smartphone).
+
+**Core dependencies**
+- [H2](https://github.com/mgp25/Instagram-API)
+- [Lombdok](https://projectlombok.org/)
+- [Hibernate](http://hibernate.org/)
+- [Weblaf](http://weblookandfeel.com/)
+- [Apache-Commons](https://commons.apache.org/)
+- [Ez-Vcard](https://github.com/mangstadt/ez-vcard)
+- [Towel](https://github.com/MarkyVasconcelos/Towel)
+
+'Towel Work Around'
+-------------------
+
+Towel it's a cool swing helper but discontinued, I have intentions of assuming but that's for another time, then it is not in maven you need to download the project and compile it locally and then add it to the project. 
+I guarantee it's worth the work.

@@ -1,0 +1,3 @@
+/target/
+src/main/java/com/krismorte/clinica/pdf/relatorio/CaixaDetalhado.java
+*.db
